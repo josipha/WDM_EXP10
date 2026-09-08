@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### REG NO: 212224220044
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,10 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![Screenshot 1](https://github.com/user-attachments/assets/62d554a8-a4cf-42f3-8d58-d8e29f709826)
+
+![Screenshot 2](https://github.com/user-attachments/assets/ad8ae7d9-d667-4d9f-a94d-9ccd3ebaa024)
+
 
 ### Result:
+Therefore, project for Sentimental Analysis on Amazon Product Reviews dataset Using Rapidminer is successfully implemented.
